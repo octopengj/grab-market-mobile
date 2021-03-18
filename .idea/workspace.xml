@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e863560d-794c-4e27-9d56-66f6ae0256ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +55,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1535" y="286" width="305" height="671" key="AVDManager" timestamp="1616060820959">
+    <state x="1092" y="286" width="748" height="671" key="AVDManager" timestamp="1616066098951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1535" y="286" width="305" height="671" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1616060820959" />
+    <state x="1092" y="286" width="748" height="671" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1616066098951" />
+    <state x="1321" y="200" key="FileChooserDialogImpl" timestamp="1616062751181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1321" y="200" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616062751181" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1616060104382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
