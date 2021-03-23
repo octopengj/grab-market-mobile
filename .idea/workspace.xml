@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863560d-794c-4e27-9d56-66f6ae0256ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +71,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1092" y="286" width="748" height="671" key="AVDManager" timestamp="1616488956449">
+    <state x="1092" y="286" width="748" height="671" key="AVDManager" timestamp="1616498153191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1092" y="286" width="748" height="671" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1616488956449" />
+    <state x="1092" y="286" width="748" height="671" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1616498153191" />
     <state x="1321" y="200" key="FileChooserDialogImpl" timestamp="1616233443242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
